@@ -1,0 +1,58 @@
+
+li{
+    list-style-type: none;
+}
+nav ul li a:hover{
+    color: #8fc04e;
+}
+nav ul li a{
+    color: #fff;
+    font-size: 14px;
+}
+#top-header{
+    background-color: #1c1c1c;
+}
+.col-left a{
+    color: #fff;
+}
+.col-left a i{
+    color: #8fc04e;
+}
+.col-left a:hover{
+    color: #8fc04e;
+}
+.col-left p i{
+    color: #8fc04e;
+}
+.top-header a{
+    color: #9b9b9b;
+}
+.top-header a:hover{
+    color: #fff;
+    transition: all 0.5s ease;
+}
+
+/* header section */
+.main-home{
+    color: #8fc04e;
+}
+
+
+
+#baner-sec{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url("../images/hero-bg.jpg");
+    background-position: top;
+    background-size: cover;
+}
+.baner-btn{
+    /* background-color: #acde73; */
+    border: 2px solid #8fc04e;
+}
+.baner-btn:hover{
+    background-color: #8fc04e;
+    transition: all 0.5s ease;
+}
+.baner-row{
+    padding-top: 10%;
+
+}
